@@ -44,7 +44,7 @@ This project provides a Python-based tool that uses a trained **YOLOv11** model 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/gashawdemlew/defect-detection-brazed-joint-micrographs.git
+   https://github.com/Joelabate2025/Defect-segmentation-and-classification-in-brazed-joint.git
    cd defect-detection-brazed-joint-micrographs
    ```
 
